@@ -1,16 +1,39 @@
-### Hi there 👋
+## 一般情報
 
-<!--
-**proactive-cybernetics/proactive-cybernetics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+首都圏のとある電子機器メーカーに勤務してます。  
+最近はIoT絡みの仕事も増えたこともあり、
+ネットワーク・インフラの学習をしています。
 
-Here are some ideas to get you started:
+## SNS・ブログなど
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Twitter : @wannabee1985
+
+技術ブログ : https://proactive-cybernetics.github.io/
+
+その他書き散らし : https://proactive-cybernetics.hatenablog.com/
+
+## 資格・検定
+
+情報処理技術者試験 (ソフトウェア開発技術者)
+
+## テクニカルスキル
+
+業務経歴3年以上
+
+* C/C++
+* RTOS
+* Excel VBA
+* FPGA (VHDL, Quartus Prime, ModelSim)
+
+業務経歴1年以上
+
+* C#, .NET Framework
+* Python
+
+業務経歴なしの個人開発
+
+* React / Gatsby / Next.js
+* Ruby on Rails
+* Django
+* AWS (S3 / EC2 / IoT Core / DynamoDB / Lambda / API Gateway)
+* マイコン、MCU (Arduino / M5Stack)
