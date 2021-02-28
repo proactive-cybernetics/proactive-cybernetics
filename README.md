@@ -6,7 +6,7 @@
 
 ## SNS・ブログなど
 
-Twitter : @wannabee1985
+Twitter : [@wannabee1985](https://twitter.com/wannabee1985/)
 
 技術ブログ : https://proactive-cybernetics.github.io/
 
