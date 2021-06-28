@@ -12,21 +12,21 @@
 
 ## 資格・検定
 
-情報処理技術者試験 (ソフトウェア開発技術者)
+情報処理技術者試験 (ネットワークスペシャリスト)
 
 ## テクニカルスキル
 
 業務経歴3年以上
 
 * C/C++
-* RTOS
+* RTOS (ITRON系)
 * Excel VBA
 * FPGA (VHDL, Quartus Prime, ModelSim)
 
 業務経歴1年以上
 
 * C#, .NET Framework
-* Python
+* Python3
 
 業務経歴なしの個人開発
 
