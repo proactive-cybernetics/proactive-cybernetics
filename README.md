@@ -6,9 +6,7 @@
 
 ## SNS・ブログなど
 
-技術ブログ : https://proactive-cybernetics.github.io/
-
-その他書き散らし : https://proactive-cybernetics.hatenablog.com/
+ブログ : https://proactive-cybernetics.github.io/
 
 ## 資格・検定
 
