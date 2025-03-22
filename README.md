@@ -4,13 +4,14 @@
 最近はIoT絡みの仕事も増えたこともあり、
 ネットワーク・インフラの学習をしています。
 
-## SNS・ブログなど
+## 趣味
 
-ブログ : https://proactive-cybernetics.github.io/
+* [趣味のプログラミング](https://github.com/proactive-cybernetics/proactive-cybernetics/wiki/%E8%B6%A3%E5%91%B3-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)
+* [趣味の電子工作]
 
 ## 資格・検定
 
-情報処理技術者試験 (ES, NW, SW, FE) 合格
+情報処理技術者試験 (SC, ES, NW, SW, FE) 合格
 
 ## テクニカルスキル
 
